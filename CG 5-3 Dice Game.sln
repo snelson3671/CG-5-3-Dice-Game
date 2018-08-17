@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2047
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CG 5-3 Dice Game", "CG 5-3 Dice Game\CG 5-3 Dice Game.csproj", "{83B89891-B0A7-44E4-904B-EB50A52E96EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{83B89891-B0A7-44E4-904B-EB50A52E96EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83B89891-B0A7-44E4-904B-EB50A52E96EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83B89891-B0A7-44E4-904B-EB50A52E96EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83B89891-B0A7-44E4-904B-EB50A52E96EC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6FAD0C9D-C6C1-4C63-9C27-DD20138CF96C}
+	EndGlobalSection
+EndGlobal
